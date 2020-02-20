@@ -4,7 +4,6 @@
 
 int main(int argc, char **argv){
 
-
     int c;
 	while ((c = getchar()) != EOF){
 		 // The strcmp() function shall compare the string pointed to by s1 to the string pointed to by s2. 
